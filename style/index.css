@@ -238,7 +238,7 @@ main {
 .projects__section {
   flex-direction: column;
   gap: 80px;
-  padding: 0 222px 80px 222px;
+  padding: 20px 222px 80px 222px;
 }
 
 .projects__card {
@@ -685,7 +685,6 @@ footer {
   .projects__section {
     flex-direction: column;
     padding: 0 20px;
-    margin-top: -56px;
   }
 
   .projects__card {
@@ -838,7 +837,6 @@ footer {
   .projects__section {
     flex-direction: column;
     padding: 0 20px;
-    margin-top: -56px;
   }
 
   .projects__card {
